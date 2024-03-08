@@ -1,5 +1,6 @@
 # Notas:
 Este es mi primer programa en Node
+Para poder usar los modulos node, escribir en consola npm install antes de utilizar.
 
 ```
 Options:
